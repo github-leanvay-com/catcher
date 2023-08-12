@@ -21,3 +21,7 @@ android/.gradle
 flutter_export_environment.sh
 *.lock
 .vscode
+android/.settings
+android/.classpath
+android/.project
+example/android/.project
